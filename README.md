@@ -33,11 +33,11 @@
 #### Example Insight 3: "There is a notable variation in genre popularity depending on the region.
 
 ## Technologies Used
-### Python: Programming language for data manipulation and analysis.
-### Jupyter Notebook: Environment for running and documenting analysis
-### Pandas: Data manipulation and preprocessing.
-### Seaborn & Matplotlib: Data visualization libraries.
-### GeoPandas: Used for mapping regional data and sales distribution.
+#### Python: Programming language for data manipulation and analysis.
+#### Jupyter Notebook: Environment for running and documenting analysis
+#### Pandas: Data manipulation and preprocessing.
+#### Seaborn & Matplotlib: Data visualization libraries.
+#### GeoPandas: Used for mapping regional data and sales distribution.
 
 ## Conclusion
 ### This project provides valuable insights into [topic, e.g., video game sales by genre and region], helping to identify trends and potential areas for growth. These insights could be beneficial for stakeholders in related industries or applications
